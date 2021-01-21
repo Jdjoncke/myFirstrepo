@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# ignore every file that ends with ...
+*.zip
+*.pdf
+*.png
+*.jpeg
